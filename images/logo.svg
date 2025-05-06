@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 5C11.7157 5 5 11.7157 5 20C5 28.2843 11.7157 35 20 35C28.2843 35 35 28.2843 35 20C35 11.7157 28.2843 5 20 5Z" stroke="#FF0000" stroke-width="2"/>
+  <path d="M15 15L25 25M15 25L25 15" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+  <path d="M45 15H48L51 25L54 15H57L60 25L63 15H66L61 25H58L55 15L52 25H49L45 15Z" fill="#FFFFFF"/>
+  <path d="M69 15H72V25H69V15Z" fill="#FFFFFF"/>
+  <path d="M82 15H77V17H80V19H77V23H77V25H82C83.6569 25 85 23.6569 85 22V18C85 16.3431 83.6569 15 82 15Z" fill="#FFFFFF"/>
+  <path d="M98 15H93V17H96V19H93V23H93V25H98C99.6569 25 101 23.6569 101 22V18C101 16.3431 99.6569 15 98 15Z" fill="#FFFFFF"/>
+  <path d="M104 15H107V23H112V25H104V15Z" fill="#FFFFFF"/>
+  <path d="M115 15H112V25H115V15Z" fill="#FFFFFF"/>
+</svg>
