@@ -286,7 +286,7 @@ img {
   height: 100vh;
   min-height: 700px;
   /* background-image: linear-gradient(to right, #000000, #232526); */
-  background-image: url('https://pixabay.com/get/g3818bb613578a501590083d7dcce592df7bc7f10b666e8e44ff5bbe9480ecf89e20a1e4c6925cd0c717af8dadf004a04ba062fa36cf3790fe5a48e91cab38ea4_1280.jpg');
+  background-image: url('https://images.unsplash.com/photo-1485291571150-772bcfc10da5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bHV4dXJ5JTIwY2FyfGVufDB8fDB8fHww');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
